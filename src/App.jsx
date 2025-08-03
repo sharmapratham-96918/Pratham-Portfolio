@@ -6,7 +6,7 @@ import Contact from './components/Contact'
 import Footer from './components/Footer'
 import Experience from './components/Experience'
 import Navbar from './components/Navbar'
-import UI from './components/uI'
+import UI from './components/UI'
 import Skills from './components/Skills'
 
 const App = () => {
