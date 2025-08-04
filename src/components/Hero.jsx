@@ -7,7 +7,7 @@ const Hero = () => {
       <h1 className="text-5xl md:text-6xl font-bold mb-4">Hi, I'm Pratham Sharma</h1>
       <h2 className="text-2xl md:text-3xl text-indigo-600 mb-6">"Turning ideas into reality through lines of code..."</h2>
 
-      <p className="max-w-xl text-gray-600 mb-8"> Every project is an opportunity to learn and improve, delivering high-quality, scalable solutions that stand the test of time."I build scalable and responsive web applications using the latest technologies.</p>
+      <p className="max-w-xl text-gray-600 mb-8">Every project is an opportunity to learn and improve, delivering high-quality, scalable solutions that stand the test of time. I build scalable and responsive web applications using the latest technologies.</p>
 
       <div className="flex gap-4">
         <a href="/resume.docx.pdf" download className="px-6 py-2 bg-indigo-600 text-white rounded-full hover:bg-indigo-700 transition">Download Resume</a>
