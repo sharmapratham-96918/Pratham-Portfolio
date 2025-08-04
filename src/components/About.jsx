@@ -30,14 +30,11 @@ const About = () => {
           viewport={{ once: true }}
         >
           <p className="mb-4">
-            I’m a passionate full stack developer with experience in building scalable web
-            applications using MERN stack. I enjoy turning complex problems into simple, beautiful
-            interfaces.
+            I'm a passionate full stack developer with experience in building scalable web applications using the MERN stack. I enjoy turning complex problems into simple, user-friendly interfaces
           </p>
           <p className="mb-4">
-            My development philosophy is centered on writing clean, maintainable code while paying close attention 
-            to performance and responsiveness. Whether I’m working on a personal project or contributing to a team,
-             I always focus on delivering polished, reliable solutions that solve real problems.
+            My development philosophy is centered on writing clean, maintainable code while paying close attention to performance and responsiveness. Whether I'm working on a personal project or contributing
+            to a team, I always focus on delivering polished, reliable solutions that solve real problems.
           </p>
 
           <div className="flex flex-wrap gap-3 mt-4">
