@@ -8,8 +8,8 @@ const Projects = () => {
         <div className="bg-white p-5 rounded-xl shadow hover:shadow-lg transition flex flex-col justify-between">
           <div>
             <img src="/images/Dailly Dabba.png" alt="Project 1" className="rounded mb-4" />
-            <h3 className="text-xl font-semibold">Dailly-Dabba</h3>
-            <p className="text-sm text-slate-600 mt-2">Daily Dabba is a food delivery app that offers users a simple way to browse, order, and manage home-style meals online.. Built using React,Mongo DB , Express , Tailwind CSS, etc.</p>
+            <h3 className="text-xl font-semibold">Daily-Dabba</h3>
+            <p className="text-sm text-slate-600 mt-2">Daily Dabba is a food delivery app that offers users a simple way to browse, order, and manage their daily meals online. Built using React,Mongo DB , Express , Tailwind CSS, etc.</p>
           </div>
           <div className="mt-4 flex flex-col gap-2">
             <a href="#" target="_blank" className="inline-block px-4 py-2 bg-indigo-600 text-white rounded hover:bg-indigo-700 transition text-center">Visit Project</a>
@@ -23,8 +23,8 @@ const Projects = () => {
         <div className="bg-white p-5 rounded-xl shadow hover:shadow-lg transition flex flex-col justify-between">
           <div>
             <img src="/images/pokemon.png" alt="Project 2" className="rounded mb-4" />
-            <h3 className="text-xl font-semibold">Guss The Pokemon</h3>
-            <p className="text-sm text-slate-600 mt-2">Guss The Pokemon is the react game in that user gusses the name of pokemons my watching there blur images. Built using React, Tailwind CSS, etc.</p>
+            <h3 className="text-xl font-semibold">Guess The Pokemon</h3>
+            <p className="text-sm text-slate-600 mt-2">"Guess The Pokémon is a React game where the user guesses the names of Pokémon by matching their silhouettes." Built using React, Tailwind CSS, etc.</p>
           </div>
           <div className="mt-4 flex flex-col gap-2">
             <a href="https://pokemon-game-gray.vercel.app/" target="_blank" className="inline-block px-4 py-2 bg-indigo-600 text-white rounded hover:bg-indigo-700 transition text-center">Visit Project</a>
