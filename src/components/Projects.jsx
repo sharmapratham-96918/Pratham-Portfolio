@@ -37,9 +37,9 @@ const Projects = () => {
 
         <div className="bg-white p-5 rounded-xl shadow hover:shadow-lg transition flex flex-col justify-between">
           <div>
-            <img src="/images/quot app.png" alt="Project 3" className="rounded mb-4" />
-            <h3 className="text-xl font-semibold">Quoat App</h3>
-            <p className="text-sm text-slate-600 mt-2">Rendom Quoats are driven on clicking . Built using React, Tailwind CSS, etc.</p>
+            <img src="/images/khatabook.png" alt="Project 3" className="rounded mb-4" />
+            <h3 className="text-xl font-semibold">Khata-Book</h3>
+            <p className="text-sm text-slate-600 mt-2">Khata-Book is a simpel transaction management system, Tailwind CSS, etc.</p>
           </div>
           <div className="mt-4 flex flex-col gap-2">
             <a href="https://quote-app-react-six.vercel.app/" target="_blank" className="inline-block px-4 py-2 bg-indigo-600 text-white rounded hover:bg-indigo-700 transition text-center">Visit Project</a>
